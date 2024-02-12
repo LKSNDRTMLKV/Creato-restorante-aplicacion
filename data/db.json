@@ -1,0 +1,93 @@
+{
+  "restaurants": [
+    {
+      "id": "aafe6b4f-7f5d-43fc-83d2-394e60519e36",
+      "name": "Pablo Emilio Escobar Gaviria Restorante (not fake)",
+      "description": "Chia restorante pola mi amigo. Si plato o plomo.. Pablo Emilio Escobar Gaviria (Rionegro, Antioquia; 1 de diciembre de 1949 - Medellín; 2 de diciembre de 1993) fue un narcotraficante, criminal, terrorista y político colombiano, fundador y máximo líder del Cartel de Medellín.3​4​\n\nNacido de una familia campesina, Escobar desde pequeño demostraría habilidad para los negocios; inició su vida delictiva a finales de la década de 1960 en el contrabando, y a finales de la década de 1970 se involucró en la producción y comercialización de marihuana y cocaína al exterior.",
+      "picture": "https://i.dawn.com/primary/2017/05/592536e3c6dc0.jpg",
+      "address": "Columbiana",
+      "cuisines": [
+        "Spanish",
+        "Mexican"
+      ],
+      "city": "Skopje",
+      "opened": "03-12-1993"
+    },
+    {
+      "id": "dd60f0d9-1e31-42ae-9506-799eaeab697f",
+      "name": "Los Pollos Hermanos",
+      "description": "Os Pollos Hermanos es un restaurante de comida rápida de pollo frito que se originó en las series de televisión Breaking Bad y Better Call Saul. En el universo ficticio de Breaking Bad, Los Pollos Hermanos es una organización fachada para la fabricación y distribución de metanfetaminas de Gus Fring. El escenario utilizado para el restaurante en el programa fue en una sucursal de Twisters en South Valley (Nuevo México), y Twisters ha visto un aumento en el negocio atribuido a viva la Chickeno. Debido a la popularidad del programa, Los Pollos Hermanos ha aparecido en numerosas ocasiones y lugares como un restaurante temporal de la vida real.",
+      "picture": "https://people.com/thmb/e0RgrqzaTHIRJc2HhxaarZ1SB34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(299x0:301x2)/pollos-600x450-126c6ea35fad46f58e8150e8e7a63aa6.jpg",
+      "address": "Albuquerque",
+      "cuisines": [
+        "American",
+        "Mexican"
+      ],
+      "city": "Tirana",
+      "opened": "02-05-2009"
+    },
+    {
+      "id": "f01d82cd-9a09-4a23-bf05-c7b4e65d7f78",
+      "name": "Viola Restorante",
+      "description": "CROSSOVER EPISODE... IF YOU EAT HERE YOU BECOME HACKER, SO PREPARE YOURSELF TO OPEN THE TERMINAL AND HIJACK THAT $$$ YOU LUCKY SON OF A GUN. IF YOU EAT HERE YOU BECOME HACKER, SO PREPARE YOURSELF TO OPEN THE TERMINAL AND HIJACK THAT $$$ YOU LUCKY SON OF A GUN. IF YOU EAT HERE YOU BECOME HACKER, SO PREPARE YOURSELF TO OPEN THE TERMINAL AND HIJACK THAT $$$ YOU LUCKY SON OF A GUN. IF YOU EAT HERE YOU BECOME HACKER, SO PREPARE YOURSELF TO OPEN THE TERMINAL AND HIJACK THAT $$$ YOU LUCKY SON OF A GUN LUCKY SON OF A GUN LUCKY SON OF A GUN.",
+      "picture": "\thttps://c4.wallpaperflare.com/wallpaper/891/59/630/fsociety-mr-robot-logo-4k-wallpaper-preview.jpg",
+      "address": "Moskva",
+      "cuisines": [
+        "Chinese",
+        "Japanese",
+        "American"
+      ],
+      "city": "Belgrade",
+      "opened": "10-10-2018"
+    },
+    {
+      "id": "37f22660-a079-4f09-919b-d4038a1f03b9",
+      "name": "Jacko Rabbito Slimo ",
+      "description": "Jack Rabbit Slim's es un restaurante temático ubicado en el sur de California. Su decoración sigue el modelo de celebridades y cultura de la década de 1950. A tono con los \"coches rápidos\", una gran pista de carreras de juguetes recorre todo el perímetro de la zona de comedor. El centro del área principal alberga un quiosco de música en vivo. Las mesas de comedor eran en realidad autos de estilo clásico, con los interiores reconvertidos para acomodar una mesa y asientos opuestos. El personal está vestido como celebridades y/o personajes famosos de la era del cine, como James Dean, Buddy Holly, Marilyn Monroe y Mamie Van Doren. Jack Rabbit Slim's es famoso por albergar su contenido retorcido, cuyo ganador recibe un gran trofeo.",
+      "picture": "https://hotcorn-cdn.fra1.cdn.digitaloceanspaces.com/wp-content/uploads/sites/2/2021/01/11190357/pulp-fiction-storia-vera-1024x693.png",
+      "address": "Los Angelos",
+      "cuisines": [
+        "Thai",
+        "American"
+      ],
+      "city": "Sarejevo",
+      "opened": "01-01-1999"
+    },
+    {
+      "id": "39450efc-b808-44be-ad80-9d64a08c56e4",
+      "name": "Greeko gyro maestro",
+      "description": "Gyros o gyro (griego: γύρος, 'giro') es carne asada en un horno vertical. Por lo general, se sirve en un pan pita, acompañado por verduras, papas fritas y salsas. Los más comunes son tomate, cebolla y la salsa tzatziki.\n\nEn Grecia el gyros fue denominado ντονέρ [don'er], procedente del turco döner kebab (asado giratorio). Se diferencia de este en que puede llevar carne de cerdo; γύρος es un calco semántico del nombre turco. El shawarma árabe y los tacos al pastor mexicanos son platos similares.",
+      "picture": "https://d1bvpoagx8hqbg.cloudfront.net/originals/the-ultimate-pleasure-greek-gyros-26af7b3a30a8e2c5d17f059f2b3c30eb.jpg",
+      "address": "Erasmus",
+      "cuisines": [
+        "Greek"
+      ],
+      "city": "Athens",
+      "opened": "08-06-1622"
+    }
+  ],
+  "cuisines": [
+    "Chinese",
+    "Italian",
+    "Indian",
+    "French",
+    "Greek",
+    "Japanese",
+    "Mexican",
+    "Macedonian",
+    "Spanish",
+    "Thai",
+    "American"
+  ],
+  "cities": [
+    "Belgrade",
+    "Ljubjana",
+    "Sarejevo",
+    "Skopje",
+    "Sofia",
+    "Zagreb",
+    "Tirana",
+    "Athens",
+    "Podgorica"
+  ]
+}

@@ -111,18 +111,10 @@ export const RestaurantForm: React.FC<RestaurantFormProps> = ({
         try {
             setLoading(true);
             if (!!initialData) {
-                await axios.patch(`
-                ${LOCAL_SERVER_URL}
-                ${JSON_SERVER_PORT}
-                ${RESTAURANTS_ROUTE}
-                /
-                ${initialData.id}`, data)
+                await axios.patch(`${LOCAL_SERVER_URL}${JSON_SERVER_PORT}${RESTAURANTS_ROUTE}/${initialData.id}`, data)
             }
             else {
-                await axios.post(`
-                ${LOCAL_SERVER_URL}
-                ${JSON_SERVER_PORT}
-                ${RESTAURANTS_ROUTE}`, data);
+                await axios.post(`${LOCAL_SERVER_URL}${JSON_SERVER_PORT}${RESTAURANTS_ROUTE}`, data);
             }
 
             router.refresh();
@@ -147,12 +139,7 @@ export const RestaurantForm: React.FC<RestaurantFormProps> = ({
     const handleDelete = async () => {
         try {
             setLoading(true)
-            await axios.delete(`
-            ${LOCAL_SERVER_URL}
-            ${JSON_SERVER_PORT}
-            ${RESTAURANTS_ROUTE}
-            /
-            ${initialData?.id}`)
+            await axios.delete(`${LOCAL_SERVER_URL}${JSON_SERVER_PORT}${RESTAURANTS_ROUTE}/${initialData?.id}`)
 
             router.refresh();
             router.push(`/`);
